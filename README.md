@@ -1,3 +1,2 @@
-[![joyce's GitHub stats](https://github-readme-stats.vercel.app/api?username=hui-joyce)](https://github.com/hui-joyce/github-readme-stats)
-
-(https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hui-joyce&layout=compact)
+![Snake animation](https://github.com/hui-joyce/hui-joyce/blob/output/github-contribution-grid-snake.svg)
