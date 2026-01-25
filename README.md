@@ -1,6 +1,5 @@
 # hello world!
-![GitHub Stats](https://github.com/hui-joyce/github-stats-transparent/raw/output/generated/github_stats.png)
-![GitHub Stats](https://github.com/hui-joyce/hui-joyce/raw/output/generated/github_stats.png)
+![Top Languages](https://github.com/hui-joyce/github-stats-transparent/raw/output/generated/languages.svg)
 
 ### some stuff I used
 #### platforms & services 
