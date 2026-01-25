@@ -23,4 +23,4 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 #### programming langs
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,css,dart,docker,go,html,js,node.js,py,postgres,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,css,dart,docker,go,html,js,nodejs,py,postgres,ts)](https://skillicons.dev)
