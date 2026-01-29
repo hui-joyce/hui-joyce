@@ -1,7 +1,12 @@
 # hello world!
+i'm joyce, an information technology student at ngee ann polytechnic
+i love translating raw ideas into code & bringing them to life
+i enjoy exploring new technologies, alongside being a (transforming) avid runner 
+---
+catch me coding in...
 ![Top Languages](https://github.com/hui-joyce/github-stats-transparent/raw/output/generated/languages.svg)
 
-### some stuff I used
+### some stuff I use
 #### platforms & services 
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
